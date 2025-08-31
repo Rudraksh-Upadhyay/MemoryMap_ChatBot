@@ -1,0 +1,18 @@
+[
+  {
+    "role": "user",
+    "content": "one line defination of \"artificial intelligence\""
+  },
+  {
+    "role": "assistant",
+    "content": "Artificial intelligence is the design of machines or software that can perform tasks requiring human-like intelligence, such as learning, reasoning, perception, and decision-making."
+  },
+  {
+    "role": "user",
+    "content": "one line defination of \"machine learning\""
+  },
+  {
+    "role": "assistant",
+    "content": "Machine learning is a subset of AI that builds algorithms enabling computers to learn patterns from data and improve their performance without explicit programming."
+  }
+]
